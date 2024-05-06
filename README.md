@@ -22,3 +22,8 @@ The project involves a meticulously designed database schema for comprehensive d
 
 **Categories**<br/>
    Defines categories for movies, VCR, and other media items.<br/>
+
+**Libraries Used**<br/>
+Tkinter:- Tkinter is a Python library that can be used to construct basic graphical user interface (GUI) applications. (tkinter)<br/>
+Regular Expression:- A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern. RegEx can check if a string contains the specified search pattern. (re)<br/>
+MySQL Connector:- Python MySQL Connector is a Python driver that helps to integrate Python and MySQL. This Python MySQL library allows the conversion between Python and MySQL data types. (mysql.connector)
