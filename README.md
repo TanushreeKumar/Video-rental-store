@@ -7,18 +7,18 @@ The project involves a meticulously designed database schema for comprehensive d
    Customers: Customer ID, name, email, phone number.<br/>
    Employees: Employee ID, name, position.<br/>
 
- *Items*
-   Movies: Movie ID, name, director, charge per day, producer, type/genre, quantity.
-   VCR: VCR ID, type, VCR brand name, charge, made by, quantity. 
-   Video Camera: Video camera ID, brand name, made by, charge, quantity.
+ *Items*<br/>
+   Movies: Movie ID, name, director, charge per day, producer, type/genre, quantity.<br/>
+   VCR: VCR ID, type, VCR brand name, charge, made by, quantity.<br/> 
+   Video Camera: Video camera ID, brand name, made by, charge, quantity.<br/>
 
-*Transactions*
-   Movie_transactions: ID, type, movie ID, amount paid, due date, return date, customer ID, employee ID.
-   VCR_transactions: ID, type, VCR ID, amount paid, due date, return date, customer ID, employee ID.
-   VCamera_transactions: ID, type, Video camera ID, amount paid, due date, return date, customer ID, employee ID.
+*Transactions*<br/>
+   Movie_transactions: ID, type, movie ID, amount paid, due date, return date, customer ID, employee ID.<br/>
+   VCR_transactions: ID, type, VCR ID, amount paid, due date, return date, customer ID, employee ID.<br/>
+   VCamera_transactions: ID, type, Video camera ID, amount paid, due date, return date, customer ID, employee ID.<br/>
    
-*Payment*
-   Tracks payment details for transactions, including payment method, amount, date, etc.
+*Payment*<br/>
+   Tracks payment details for transactions, including payment method, amount, date, etc.<br/>
 
-*Categories*
-   Defines categories for movies, VCR, and other media items.
+*Categories*<br/>
+   Defines categories for movies, VCR, and other media items.<br/>
