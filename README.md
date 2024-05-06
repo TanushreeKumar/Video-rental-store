@@ -2,10 +2,10 @@
 A video rental store is a brick-and-mortar business offering temporary rentals of movies, VCR, and video games. Customers browse titles in-store or online, pay for rentals per item, and return them by a specified deadline to avoid late fees. Membership programs offer discounts and benefits. Stores primarily deal with physical media like DVDs and Blu-rays, with some offering additional services like sales and special events. Despite challenges from digital streaming, video rental stores remain community hubs for movie enthusiasts seeking a curated experience.
 The project involves a meticulously designed database schema for comprehensive data management, including entities like customers, items, transactions, payment and categories, ensuring data coherence and integrity constraints.
 
-*Person* 
-   Users: User_id, username, password, email.
-   Customers: Customer ID, name, email, phone number.   
-   Employees: Employee ID, name, position.
+*Person*<br/>
+   Users: User_id, username, password, email.<br/>
+   Customers: Customer ID, name, email, phone number.<br/>
+   Employees: Employee ID, name, position.<br/>
 
  *Items*
    Movies: Movie ID, name, director, charge per day, producer, type/genre, quantity.
